@@ -1,4 +1,6 @@
 //Elements
+
+console.log('Javascript Loaded')
 let counterDisplayHome = document.getElementById("counter-number-home")
 let counterDisplayGuest = document.getElementById("counter-number-Guest")
 let counterHomeContainer = document.getElementById("home-container")
